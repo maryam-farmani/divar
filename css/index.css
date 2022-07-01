@@ -1,0 +1,31 @@
+.divar-image{
+    transform: scale(2);
+}
+
+.form{
+    width: 40%;
+}
+
+.btn{
+    background-color: none;
+}
+ 
+.btn-header{
+    background-color: #a62626;
+    border-color: #a62626;
+    color: #fff;
+    font-size: small;
+    width: 10%;
+}
+
+.font-size-h2 {
+    font-size: small;
+}
+
+.font-size-h-2{
+    font-size: .77rem;
+}
+
+.font-size-ul{
+    font-size: .845rem;
+}
